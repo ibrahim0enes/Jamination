@@ -1,0 +1,16 @@
+# UE5 .gitignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
